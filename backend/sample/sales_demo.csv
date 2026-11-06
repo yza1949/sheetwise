@@ -1,0 +1,19 @@
+Order ID,Date,Region,Product,Units,Unit Price,Amount,Phone,Email
+ORD-001,2024-03-01,North,Desk Lamp,4,25.5,102,13800001111,mia@shop.com
+ORD-002,03/01/2024,South,Chair,2,89,178,138-0000-2222,leo@shop.com
+ORD-002,2024-03-02,South,Chair,2,89,200,13800002223,leo@shop.com
+ORD-003,2024/3/5,North,Desk,1,210,210,13800003333,mei@shop.com
+ORD-004,15 Feb 2024,East,Monitor,3,150,450,13800004444,ann@shop.com
+ORD-005,2024-03-10,West ,Keyboard,5,18,90,13800005555,bob@shop.com
+ORD-006,2024-03-12,North,Chair,2,89,178,13800006666,mia@shop.com
+ORD-006,2024-03-12,North,Chair,2,89,178,13800006666,mia@shop.com
+ORD-007,2024-03-13,north,Chair,2,89,187,13800007777,not-an-email
+ORD-008,2024-03-15,,Desk Lamp,3,25.5,76.5,13800008888,mia@shop.com
+ORD-009,2024-03-18,South,Monitor,,150,600,123,leo@shop.com
+ORD-010,2024-03-20,East,Keyboard,6,18,108,13800001010,mei @shop.com
+ORD-011,2024-03-22,West,Desk,2,210,420,13800001112,ann@shop.com
+ORD-012,2024-13-40,North,Chair,1,89,89,13800001212,bob@shop.com
+ORD-013,2024-03-25,South,Desk Lamp,4,25.5,99999,13800001313,mia@shop.com
+ORD-014,2024-03-28,East,Monitor,2,150,300,13800001414,leo@shop.com
+ORD-015,2024-03-30,North,Keyboard,3,18,54,13800001515,mei@shop.com
+ORD-016,2024-04-02,West,Chair,500,18,9000,13800001616,ann@shop.com
